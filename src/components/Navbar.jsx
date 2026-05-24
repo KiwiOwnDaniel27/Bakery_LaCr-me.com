@@ -217,7 +217,7 @@ const Navbar = () => {
 
           <li className="group relative cursor-pointer">
             <a
-              href="https://kiwiowndaniel27.github.io/FreePass.com/#/tienda"
+              href="https://kiwiowndaniel27.github.io/Bakery_LaCr-me.com/#/tienda"
               className="flex items-center primary-btn 2xl:text-3xl text-amber-800 dark:text-white"
             >
               Menú
