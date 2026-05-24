@@ -33,7 +33,7 @@ const DarkMode = () => {
       <img 
       src="./assets/mooddark.webp" 
       alt=""
-      className={`w-19 md:w-16 lg:w-21 xl:w-26 2xl:w-40 cursor-pointer drop-shadow-[3px_3px_3px_black] transition-all
+      className={`w-16 md:w-16 lg:w-21 xl:w-26 2xl:w-35 cursor-pointer drop-shadow-[3px_3px_3px_black] transition-all
       duration-300 absolute ${theme == "dark" ? "opacity-100" : "opacity-0"}`}
       onClick={() => setTheme(theme == "light" ? "dark" : "light")}
       />
