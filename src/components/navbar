@@ -273,14 +273,6 @@ const Navbar = () => {
         <img className="active:scale-95 hover:scale-105 mt-108 2xl:mt-0 absolute w-33 container hidden dark:block" src="./assets/logoDQCompany.webp" alt=""/>
         
         <ul className="flex flex-col items-center gap-6 text-xl -mt-19">
-         <li>
-            <a
-              href="https://kiwiowndaniel27.github.io/FreePass.com/#/tienda"
-              className="text-black dark:text-white font-bold inline-block px-4 primary-btn duration-200 hover:text-amber-400 active:scale-95"
-              onClick={handleClick}>
-              
-            </a>
-          </li>
           {Menu.map((data) => (
             <li className="" key={data.name}>
               <Link
@@ -293,14 +285,14 @@ const Navbar = () => {
             </li>
           ))}
         </ul>
-         <a
+            <a
               href="https://kiwiowndaniel27.github.io/Bakery_LaCr-me.com/#/tienda"
-              className="text-black text-lg mt-3 dark:text-white font-bold inline-block px-4 primary-btn duration-200 hover:text-amber-400 active:scale-95"
+              className="text-black text-lg dark:text-white font-bold inline-block px-4 primary-btn duration-200 hover:text-amber-400 active:scale-95 mt-3"
               onClick={handleClick}>
               Menú
             </a>
       </nav>
-
+    
     </div>
   );
 };
