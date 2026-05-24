@@ -286,10 +286,10 @@ const Navbar = () => {
           ))}
         </ul>
             <a
-              href="http://localhost:5174/Bakery_LaCr-me.com/Bakery_LaCreme.com#/tienda"
-              className= " text-xl text-black dark:text-white font-bold inline-block primary-btn duration-200 hover:text-amber-400 active:scale-95 mt-3"
+              href="https://kiwiowndaniel27.github.io/FreePass.com/#/tienda"
+              className="text-black text-lg dark:text-white font-bold inline-block px-4 primary-btn duration-200 hover:text-amber-400 active:scale-95"
               onClick={handleClick}>
-              Menú
+              Tienda
             </a>
       </nav>
       
