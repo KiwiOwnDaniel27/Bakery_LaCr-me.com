@@ -292,10 +292,7 @@ const Navbar = () => {
               Menú
             </a>
       </nav>
-      
-
-      {/* MENU DESKTOP */}
-
+    
     </div>
   );
 };
