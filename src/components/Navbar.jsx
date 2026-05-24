@@ -275,7 +275,7 @@ const Navbar = () => {
         <ul className="flex flex-col items-center gap-6 text-xl -mt-19">
          <li>
             <a
-              href="https://kiwiowndaniel27.github.io/FreePass.com/#/tienda"
+              href="https://kiwiowndaniel27.github.io/Bakery_LaCr-me.com/#/tienda"
               className="text-black dark:text-white font-bold inline-block px-4 primary-btn duration-200 hover:text-amber-400 active:scale-95"
               onClick={handleClick}>
               Tienda

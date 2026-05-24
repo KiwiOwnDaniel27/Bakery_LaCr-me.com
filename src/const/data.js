@@ -896,7 +896,7 @@ export const CategoriasData = [
         color: "Azul",
         aosDeLay: "0",
         dad: "100",
-        link: "https://kiwiowndaniel27.github.io/FreePass.com/#/postres",
+        link: "https://kiwiowndaniel27.github.io/Bakery_LaCr-me.com/#/postres",
     },
     {
         id: 2,
@@ -906,7 +906,7 @@ export const CategoriasData = [
         color: "Negro y blanco",
         aosDeLay: "200",
         dad: "200",
-        link: "https://kiwiowndaniel27.github.io/FreePass.com/#/galletas",
+        link: "https://kiwiowndaniel27.github.io/Bakery_LaCr-me.com/#/galletas",
     },
     {
         id: 3,
@@ -916,7 +916,7 @@ export const CategoriasData = [
         color: "Verde Militar",
         aosDeLay: "400",
         dad: "300",
-        link: "https://kiwiowndaniel27.github.io/FreePass.com/#/desayunos",
+        link: "https://kiwiowndaniel27.github.io/Bakery_LaCr-me.com/#/desayunos",
     },
 ];
 
@@ -929,7 +929,7 @@ export const CatalogoData = [
         color: "Azul",
         aosDeLay: "0",
         dad: "100",
-        link: "https://kiwiowndaniel27.github.io/FreePass.com/#/abrigos",
+        link: "https://kiwiowndaniel27.github.io/Bakery_LaCr-me.com/#/abrigos",
     },
     {
         id: 2,
@@ -939,7 +939,7 @@ export const CatalogoData = [
         color: "Negro y blanco",
         aosDeLay: "200",
         dad: "200",
-        link: "https://kiwiowndaniel27.github.io/FreePass.com/#/tejidos",
+        link: "https://kiwiowndaniel27.github.io/Bakery_LaCr-me.com/#/tejidos",
     },
     {
         id: 3,
@@ -949,7 +949,7 @@ export const CatalogoData = [
         color: "Verde Militar",
         aosDeLay: "400",
         dad: "300",
-        link: "https://kiwiowndaniel27.github.io/FreePass.com/#/indumentaria",
+        link: "https://kiwiowndaniel27.github.io/Bakery_LaCr-me.com/#/indumentaria",
     },
 ];
 
