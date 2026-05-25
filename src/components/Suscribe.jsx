@@ -23,7 +23,7 @@ const Suscribe = () => {
         mt-12 md:mt-0 lg:mt-30 sm:-mt-3">
 
           
-          <div className="space-y-6 mx-auto 2xl:w-250 2xl:-ml-30 2xl:mt-23 backdrop-blur-lg ">
+          <div className="space-y-6 mx-auto 2xl:w-250 2xl:-ml-30 xl:w-130 2xl:mt-23 backdrop-blur-lg ">
             
             <h1 className="text-black dark:text-white text-2xl xl:text-5xl text-center 
             sm:text-4xl font-semibold 2xl:text-7xl 2xl:mb-23 lg:mb-11 sm:mb-16">
