@@ -359,7 +359,7 @@ const Navbar = () => {
 
             {/* WHATSAPP */}
             <a
-              href="https://wa.me/593988220328?text=Hola%20,estoy%20interesado/a%20en%20un%20producto%20exclusivo%20,que%20me%20recomiendas👕👗🛍️"
+              href="https://wa.me/593984611893?text=Hola%20,estoy%20interesado/a%20en%20un%20detalle%20exclusivo%20,que%20me%20recomiendas🍪🎂🎁💝"
               target="_blank"
               rel="noreferrer"
               className="active:scale-95 hover:scale-105"
@@ -381,7 +381,7 @@ const Navbar = () => {
 
             <div className="-ml-40 absolute -mt-40">
             <a
-              href="tel:+593959463688"
+              href="#"
               className="active:scale-95 hover:scale-105"
             >
               <img
@@ -399,7 +399,7 @@ const Navbar = () => {
             {/* CATALOGO */}
             <div className="ml-36  -mt-43">
             <a
-              href="tel:+593959463688"
+              href="#"
               className="active:scale-95 hover:scale-105"
             >
               <img
@@ -417,7 +417,7 @@ const Navbar = () => {
             {/* SOPORTE */}
             <div className="-ml-40 absolute -mt-3">
             <a
-              href="tel:+593959463688"
+              href="#"
               className="active:scale-95 hover:scale-105"
             >
               <img
@@ -434,7 +434,7 @@ const Navbar = () => {
 
             <div className="ml-36  mt-7">
             <a
-              href="tel:+593959463688"
+              href="#"
               className="active:scale-95 hover:scale-105"
             >
               <img
@@ -451,7 +451,7 @@ const Navbar = () => {
 
             <div className="-ml-40 absolute mt-35">
             <a
-              href="tel:+593959463688"
+              href="#"
               className="active:scale-95 hover:scale-105"
             >
               <img
@@ -468,7 +468,7 @@ const Navbar = () => {
 
             <div className="ml-36  mt-33 absolute">
             <a
-              href="tel:+593959463688"
+              href="#"
               className="active:scale-95 hover:scale-105"
             >
               <img
