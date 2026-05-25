@@ -251,55 +251,63 @@ const Navbar = () => {
 
       {/* MENU MOBILE */}
       <nav className={`navbar ${isOpen ? "active" : ""}`}>
-      
-      <button
-        className="absolute top-8 right-3 md:hidden 
-        transition-transform duration-300 ease-in-out
-        hover:scale-110 active:scale-95"
+  
+  <button
+    className="absolute top-8 right-3 md:hidden 
+    transition-transform duration-300 ease-in-out
+    hover:scale-110 active:scale-95"
+    onClick={handleClick}
+  >
+    <RiCloseLine
+      size={50}
+      className={`text-black dark:text-white transition-transform duration-900 ${
+        isOpen ? "rotate-0 scale-100" : "rotate-270 scale-75"
+      }`}
+    />
+  </button>
+
+  {/* Logos */}
+  <img className="-mt-140 absolute w-75 container block dark:hidden" src="./assets/logo.1.1.webp" alt=""/>
+  <img className="-mt-140 absolute w-75 container hidden dark:block" src="./assets/logo.1.1.webp" alt=""/>
+
+  <img className="active:scale-95 hover:scale-105 mt-108 2xl:mt-0 absolute w-33 container block dark:hidden" src="./assets/logoDQCompany.webp" alt=""/>
+  <img className="active:scale-95 hover:scale-105 mt-108 2xl:mt-0 absolute w-33 container hidden dark:block" src="./assets/logoDQCompany.webp" alt=""/>
+  
+  {/* Lista de Navegación */}
+  <ul className="flex flex-col items-center gap-6 text-xl -mt-19">
+    {/* Enlace de la Tienda/Menú (Ahora sí tiene texto y es interactivo) */}
+    <li>
+      <a
+        href="https://kiwiowndaniel27.github.io/FreePass.com/#/tienda"
+        className="text-black text-sm dark:text-white font-bold inline-block px-4 primary-btn duration-200 hover:text-amber-400 active:scale-95"
         onClick={handleClick}
       >
-        <RiCloseLine
-          size={50}
-          className={`text-black dark:text-white transition-transform duration-900 ${
-            isOpen ? "rotate-0 scale-100" : "rotate-270 scale-75"
-          }`}
-        />
-      </button>
+        Elije tu mejor opción
+      </a>
+    </li>
 
-        <img className="-mt-140 absolute w-75 container block dark:hidden" src="./assets/logo.1.1.webp" alt=""/>
-        <img className="-mt-140 absolute w-75 container hidden dark:block" src="./assets/logo.1.1.webp" alt=""/>
+    <a href=""
+    className="text-black text-xl dark:text-white font-bold inline-block px-4 primary-btn duration-200 hover:text-amber-400 active:scale-95 -mt-6">
+      Menú
+    </a>
 
-        <img className="active:scale-95 hover:scale-105 mt-108 2xl:mt-0 absolute w-33 container block dark:hidden" src="./assets/logoDQCompany.webp" alt=""/>
-        <img className="active:scale-95 hover:scale-105 mt-108 2xl:mt-0 absolute w-33 container hidden dark:block" src="./assets/logoDQCompany.webp" alt=""/>
-        
-        <ul className="flex flex-col items-center gap-6 text-xl -mt-19">
-         <li>
-            <a
-              href="https://kiwiowndaniel27.github.io/FreePass.com/#/tienda"
-              className="text-black dark:text-white font-bold inline-block px-4 primary-btn duration-200 hover:text-amber-400 active:scale-95"
-              onClick={handleClick}>
-              
-            </a>
-          </li>
-          {Menu.map((data) => (
-            <li className="" key={data.name}>
-              <Link
-                className="text-black dark:text-white font-bold inline-block px-4 primary-btn duration-200 hover:text-amber-400 active:scale-95"
-                to={data.link}
-                onClick={handleClick}
-              >
-                {data.name}
-              </Link>
-            </li>
-          ))}
-        </ul>
-         <a
-              href="https://kiwiowndaniel27.github.io/Bakery_LaCr-me.com/#/tienda"
-              className="text-black text-lg mt-3 dark:text-white font-bold inline-block px-4 primary-btn duration-200 hover:text-amber-400 active:scale-95"
-              onClick={handleClick}>
-              Menú
-            </a>
-      </nav>
+    {/* Enlaces dinámicos del MAP */}
+    {Menu.map((data) => (
+      <li key={data.name}>
+        <Link
+          className="text-black dark:text-white font-bold inline-block px-4 primary-btn duration-200 hover:text-amber-400 active:scale-95 -mt-3"
+          to={data.link}
+          onClick={handleClick}
+        >
+          {data.name}
+        </Link>
+      </li>
+    ))}
+  </ul>
+</nav>
+      
+
+      {/* MENU DESKTOP */}
 
     </div>
   );
