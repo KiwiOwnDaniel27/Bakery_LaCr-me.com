@@ -278,7 +278,7 @@ const Navbar = () => {
     {/* Enlace de la Tienda/Menú (Ahora sí tiene texto y es interactivo) */}
     <li>
       <a
-        href="https://kiwiowndaniel27.github.io/FreePass.com/#/tienda"
+        href=""
         className="text-black text-sm dark:text-white font-bold inline-block px-4 primary-btn duration-200 hover:text-amber-400 active:scale-95"
         onClick={handleClick}
       >
@@ -286,7 +286,7 @@ const Navbar = () => {
       </a>
     </li>
 
-    <a href=""
+    <a href="https://kiwiowndaniel27.github.io/Bakery_LaCr-me.com/#/tienda"
     className="text-black text-xl dark:text-white font-bold inline-block px-4 primary-btn duration-200 hover:text-amber-400 active:scale-95 -mt-6">
       Menú
     </a>
