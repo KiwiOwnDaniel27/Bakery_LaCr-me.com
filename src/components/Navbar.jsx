@@ -40,7 +40,7 @@ const Navbar = () => {
 
 
   return (
-    <div className="px-0 sticky md:static top-0 z-50 bg-white">
+    <div className="px-0 sticky top-0 z-50 bg-white">
       <div className="relative z-10 bg-[url('/assets/fondo-bakery.png')] 
       dark:bg-[url('/assets/fondo-bakery-osc.png')] bg-cover flex mx-auto w-full flex-col p-6 h-27 shadow-lg 2xl:h-70
       xl:h-35 lg:h-30 md:h-30 sm:h-36
@@ -50,8 +50,8 @@ const Navbar = () => {
             target="_blank"
             rel="noreferrer">
             <img src="./assets/bakeryico.png" alt=""
-            className="w-24  mt-130 md:hidden rounded-full"/>
-            <p className="text-center text-[10px] -mt-3 font-bold md:hidden text-black dark:text-white">Sweet <br /> shopper</p>
+            className="w-24 md:w-30  mt-130 md:mt-100 rounded-full"/>
+            <p className="text-center text-[10px] md:text-[14px] -mt-3 font-bold text-black dark:text-white">Sweet <br /> shopper</p>
           </a>
         </div>
 
