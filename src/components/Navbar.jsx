@@ -346,7 +346,7 @@ const Navbar = () => {
 
       {/* MODAL SWEET SHOPPER */}
       {isSweetModalOpen && (
-        <div className="fixed inset-0 flex items-center justify-center z-99">
+        <div className="fixed inset-0 flex items-center justify-center z-999">
 
           {/* FONDO */}
           <div
@@ -355,7 +355,7 @@ const Navbar = () => {
           ></div>
 
           {/* CONTENIDO */}
-          <div className="relative z-50 flex flex-col items-center gap-4">
+          <div className="relative z-50 flex flex-col items-center gap-4 mt-9">
 
             {/* WHATSAPP */}
             <a
@@ -387,7 +387,7 @@ const Navbar = () => {
               <img
                 src="./assets/pastelico.png"
                 alt=""
-                className="w-19"
+                className="w-16"
               />
 
               <p className="text-center text-white text-sm font-semibold mt-3">
@@ -405,7 +405,7 @@ const Navbar = () => {
               <img
                 src="./assets/galletaico.png"
                 alt=""
-                className="w-27"
+                className="w-23"
               />
 
               <p className="text-center text-white text-sm font-semibold mt-3">
@@ -423,7 +423,7 @@ const Navbar = () => {
               <img
                 src="./assets/desayunico.png"
                 alt=""
-                className="w-27"
+                className="w-23"
               />
 
               <p className="text-center text-white text-sm font-semibold mt-3">
@@ -432,7 +432,7 @@ const Navbar = () => {
             </a>
             </div>
 
-            <div className="ml-30  mt-3">
+            <div className="ml-30  mt-7">
             <a
               href="tel:+593959463688"
               className="active:scale-95 hover:scale-105"
@@ -440,7 +440,7 @@ const Navbar = () => {
               <img
                 src="./assets/detallico.png"
                 alt=""
-                className="w-27"
+                className="w-23"
               />
 
               <p className="text-center text-white text-sm font-semibold mt-3">
@@ -457,7 +457,7 @@ const Navbar = () => {
               <img
                 src="./assets/cumplico.png"
                 alt=""
-                className="w-27"
+                className="w-23"
               />
 
               <p className="text-center text-white text-sm font-semibold mt-3">
@@ -474,7 +474,7 @@ const Navbar = () => {
               <img
                 src="./assets/especilico.png"
                 alt=""
-                className="w-33"
+                className="w-29"
               />
 
               <p className="text-center text-white text-sm font-semibold mt-3">
