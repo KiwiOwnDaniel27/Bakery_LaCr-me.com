@@ -29,7 +29,7 @@ const Footer2 = () => {
                             ))}
                         </ul>
                     </div>
-                    <div className="py-8 px-4 -ml-4 2xl:ml-16 xl:ml-18 lg:ml-7 md:-ml-2 sm:ml-36">
+                    <div className="py-8 px-4 ml-0 2xl:ml-16 xl:ml-18 lg:ml-7 md:-ml-2 sm:ml-36">
                         <h1 className="mb-6 text-amber-800 dark:text-amber-500 -ml-4 2xl:ml-0">
                             Redes Sociales
                         </h1>
@@ -49,7 +49,7 @@ const Footer2 = () => {
                         </ul>
                     </div>
                     <div className=" container">
-                    <div className="mt-8 space-y-4 text-black dark:text-white 2xl:ml-45 -ml-15 xl:ml-20 2xl:w-100 2xl:text-2xl md:ml-8">
+                    <div className="mt-8 space-y-4 text-black dark:text-white 2xl:ml-45 -ml-11 xl:ml-20 2xl:w-100 2xl:text-2xl md:ml-8">
                         {contactInfo.map(item => (
                             <a href={item.url} target="_blank" key={item.id} className="active:scale-95 hover:scale-105 flex items-center gap-1.5 hover:text-green-800
                             hover:underline transition-colors">
