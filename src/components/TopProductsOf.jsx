@@ -58,7 +58,7 @@ const TopProducts = () => {
       viewport={{ once: true }}
     >
 
-      <div className="bg-rose-200  dark:bg-gray-900">
+      <div className="bg-rose-200  dark:bg-gray-900 h-170">
 
         <div className="text-center md:text-left mb-9 md:ml-26 xl:py-6 py-9 2xl:py-13 ">
           <p className="text-sm font-bold text-amber-800 dark:text-white 2xl:text-7xl xl:text-3xl 
