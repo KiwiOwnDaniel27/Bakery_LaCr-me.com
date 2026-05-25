@@ -619,7 +619,7 @@ export const FooterLinks = [
     },
     {
         title: "Cumpleaños",
-        link: "/tienda",
+        link: "/amedida",
     },
     {
         title: "Fechas Especiales",
@@ -627,7 +627,7 @@ export const FooterLinks = [
     },
     {
         title: "Menú",
-        link: "/amedida",
+        link: "/tienda",
     },
 ]
 
@@ -655,18 +655,6 @@ export const socialIcons = [
   export const contactInfo = [
     {
       id: 1,
-      icon: RiPhoneFill,
-      label: "freepass.ec@gmail.com",
-      url: "mailto:freepass.ec@gmail.com?subject=Hola&body=Este%20es%20un%20mensaje",
-    },
-    {
-      id: 2,
-      icon: RiMailSendFill,
-      label: "+593 988220328",
-      url: "https://wa.me/593988220328",
-    },
-    {
-      id: 3,
       icon: RiUserLocationLine,
       label: "Ecuador in the World",
       url: "https://www.instagram.com/daniel_quiguango_8?igsh=MTRhanl0bWNnanNxZw%3D%3D&utm_source=qr",
