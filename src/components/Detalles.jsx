@@ -19,7 +19,7 @@ const Detalles = () => {
         pauseOnFocus: true,
     };
     return (
-        <div className="relative overflow-y-hidden min-h-30 bg-rose-200  text-white dark:bg-gray-900 dark:text-white
+        <div className="relative overflow-y-hidden min-h-30 bg-rose-200  text-white  dark:bg-gray-900 dark:text-white
         duration-200 h-108
         2xl:h-175  
         xl:h-135
