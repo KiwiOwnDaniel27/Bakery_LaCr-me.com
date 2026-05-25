@@ -73,7 +73,7 @@ const Navbar = () => {
 
         <div className="container">
             <img
-              className="ml-15 2xl:-ml-55 xl:-ml-1 lg:-ml-9 md:-ml-9 -mt-16 2xl:-mt-33 xl:-mt-23 lg:-mt-16 md:-mt-12 
+              className="ml-15 2xl:-ml-55 xl:-ml-20 lg:-ml-9 md:-ml-9 -mt-16 2xl:-mt-33 xl:-mt-23 lg:-mt-16 md:-mt-12 
               sm:ml-45 sm:-mt-23
               w-45 2xl:w-126 xl:w-70 lg:w-50 md:w-40 sm:w-75 block dark:hidden"
               src="./assets/logo.1.1.webp"
@@ -81,7 +81,7 @@ const Navbar = () => {
               width={300}
             />
             <img
-              className="ml-15 2xl:-ml-55 xl:-ml-1 lg:-ml-9 md:-ml-9 -mt-16 2xl:-mt-33 xl:-mt-23 lg:-mt-12 md:-mt-12 
+              className="ml-15 2xl:-ml-55 xl:-ml-20 lg:-ml-9 md:-ml-9 -mt-16 2xl:-mt-33 xl:-mt-23 lg:-mt-12 md:-mt-12 
               sm:ml-45 sm:-mt-23
               w-45 2xl:w-126 xl:w-70 lg:w-50 md:w-40 sm:w-75 hidden dark:block "
               src="./assets/logo.1.1.webp"
@@ -101,7 +101,7 @@ const Navbar = () => {
               py-3 px-2 2xl:px-5 xl:px-0 lg:px-3 rounded-full flex items-center h-6 gap-3 group ml-63 -mt-23 border border-black
               2xl:w-35 2xl:h-16 2xl:ml-365 lg:ml-225 md:ml-172 sm:ml-140 2xl:-mt-60  lg:-mt-23
               md:-mt-16 sm:-mt-36 md:w-14 md:h-7 lg:w-18 lg:h-8 w-15 xl:w-23 xl:h-10
-              xl:ml-290 xl:-mt-35"
+              xl:ml-273 xl:-mt-35"
             >
               <span className="group-hover:block transition-all duration-200 ml-1 md:ml-0 lg:ml-1 xl:ml-6 2xl:ml-3 2xl:text-3xl">
                 {products.length}
