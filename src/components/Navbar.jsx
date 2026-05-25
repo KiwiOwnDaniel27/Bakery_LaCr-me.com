@@ -355,7 +355,7 @@ const Navbar = () => {
           ></div>
 
           {/* CONTENIDO */}
-          <div className="relative z-50 flex flex-col items-center gap-4 mt-11">
+          <div className="relative z-50 flex flex-col items-center gap-4 mt-11 md:mt-60">
 
             {/* WHATSAPP */}
             <a
@@ -379,7 +379,7 @@ const Navbar = () => {
             </a>
 
 
-            <div className="-ml-40 absolute -mt-40">
+            <div className="-ml-40 absolute -mt-40 md:-ml-90">
             <a
               href="#"
               className="active:scale-95 hover:scale-105"
@@ -397,7 +397,7 @@ const Navbar = () => {
             </div>
 
             {/* CATALOGO */}
-            <div className="ml-36  -mt-43">
+            <div className="ml-36  -mt-43 md:ml-0">
             <a
               href="#"
               className="active:scale-95 hover:scale-105"
@@ -415,7 +415,7 @@ const Navbar = () => {
             </div>
 
             {/* SOPORTE */}
-            <div className="-ml-40 absolute -mt-3">
+            <div className="-ml-40 absolute -mt-3 md:-mt-43 md:ml-90">
             <a
               href="#"
               className="active:scale-95 hover:scale-105"
@@ -432,7 +432,7 @@ const Navbar = () => {
             </a>
             </div>
 
-            <div className="ml-36  mt-7">
+            <div className="ml-36  mt-7 md:-ml-90">
             <a
               href="#"
               className="active:scale-95 hover:scale-105"
@@ -449,7 +449,7 @@ const Navbar = () => {
             </a>
             </div>
 
-            <div className="-ml-40 absolute mt-35">
+            <div className="-ml-40 absolute mt-35 md:mt-0 md:ml-0">
             <a
               href="#"
               className="active:scale-95 hover:scale-105"
@@ -466,7 +466,7 @@ const Navbar = () => {
             </a>
             </div>
 
-            <div className="ml-36  mt-33 absolute">
+            <div className="ml-36  mt-33 absolute md:mt-0 md:ml-90">
             <a
               href="#"
               className="active:scale-95 hover:scale-105"
@@ -488,7 +488,7 @@ const Navbar = () => {
             {/* BOTON CERRAR */}
             <button
               onClick={() => setIsSweetModalOpen(false)}
-              className="bg-white dark:bg-gray-900 dark:text-white px-8 py-2 rounded-xl font-bold active:scale-95 hover:scale-105 mt-75 absolute"
+              className="bg-white dark:bg-gray-900 dark:text-white px-8 py-2 rounded-xl font-bold active:scale-95 hover:scale-105 mt-75 absolute md:mt-36"
             >
               Cancelar
             </button>
