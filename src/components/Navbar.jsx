@@ -49,9 +49,9 @@ const Navbar = () => {
           <a href="https://wa.me/593988220328?text=Hola%20,estoy%20interesado/a%20en%20un%20producto%20exclusivo%20,que%20me%20recomiendas👕👗🛍️"
             target="_blank"
             rel="noreferrer">
-            <img src="./assets/whatsappico.png" alt=""
+            <img src="./assets/bakeryico.png" alt=""
             className="w-24  mt-130 md:hidden rounded-full"/>
-            <p className="text-center text-[10px] -mt-6 font-bold md:hidden text-black dark:text-white">Sweet <br /> shopper</p>
+            <p className="text-center text-[10px] -mt-3 font-bold md:hidden text-black dark:text-white">Sweet <br /> shopper</p>
           </a>
         </div>
 
