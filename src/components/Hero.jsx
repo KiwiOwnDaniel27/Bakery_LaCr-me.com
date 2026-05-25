@@ -78,7 +78,7 @@ const Hero = () => {
                                             2xl:text-4xl lg:text-md
                                             2xl:mt-12 xl:mt-12 lg:mt-12 md:mt-12 sm:mt-12 mt-60 text-white
                                             2xl:ml-0 xl:ml-0 lg:ml-0 md:ml-0 sm:ml-11 ml-19">
-                                                <a href="https://kiwiowndaniel27.github.io/FreePass.com/#/catalogo">
+                                                <a href="https://kiwiowndaniel27.github.io/Bakery_LaCr-me.com/#/tienda">
                                                 Pídelo y disfrútalo
                                                 </a>
                                             </button>

@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 
 const Footer = () => {
   return (
-    <div data-aos="zoom-in" className="bg-rose-200 dark:bg-gray-900 h-123 md:h-80 xl:h-85 2xl:h-129 ">
+    <div data-aos="zoom-in" className="bg-rose-200 dark:bg-gray-900 h-100 md:h-80 xl:h-85 2xl:h-129 ">
         
         <div className="mt-21 ml-33">
             <div className="container 2xl:text-2xl">
