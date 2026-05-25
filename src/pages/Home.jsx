@@ -5,7 +5,7 @@ import Banner from '../components/Banner';
 import Suscribe from '../components/Suscribe';
 import Testimonials from '../components/Testimonials';
 import Navbar from '../components/Navbar';
-import Footer from '../components/Footer';
+import Footer2 from '../components/Footer2';
 
 const Home = () => {
   return (
@@ -16,8 +16,7 @@ const Home = () => {
       <TopProductsOf/>
       <Banner/>
       <Suscribe/>
-      <Testimonials/>
-      <Footer/>
+      <Footer2/>
     </>
   )
 }

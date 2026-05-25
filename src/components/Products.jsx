@@ -64,7 +64,7 @@ const Products = () => {
                 active:scale-95 hover:scale-105
               active:bg-white active:text-amber-400 active:duration-300
                 2xl:text-4xl"> 
-                    <a href="https://kiwiowndaniel27.github.io/FreePass.com/#/tienda">
+                    <a href="https://kiwiowndaniel27.github.io/Bakery_LaCr-me.com/#/tienda">
                     Ver más
                     </a>
                 </button>
