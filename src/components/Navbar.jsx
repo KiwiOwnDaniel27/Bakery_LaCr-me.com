@@ -346,7 +346,7 @@ const Navbar = () => {
 
       {/* MODAL SWEET SHOPPER */}
       {isSweetModalOpen && (
-        <div className="fixed inset-0 flex items-center justify-center z-[999]">
+        <div className="fixed inset-0 flex items-center justify-center z-99">
 
           {/* FONDO */}
           <div
