@@ -355,7 +355,7 @@ const Navbar = () => {
           ></div>
 
           {/* CONTENIDO */}
-          <div className="relative z-50 flex flex-col items-center gap-4 mt-9">
+          <div className="relative z-50 flex flex-col items-center gap-4 mt-11">
 
             {/* WHATSAPP */}
             <a
@@ -397,7 +397,7 @@ const Navbar = () => {
             </div>
 
             {/* CATALOGO */}
-            <div className="ml-30  -mt-43">
+            <div className="ml-36  -mt-43">
             <a
               href="tel:+593959463688"
               className="active:scale-95 hover:scale-105"
@@ -432,7 +432,7 @@ const Navbar = () => {
             </a>
             </div>
 
-            <div className="ml-30  mt-7">
+            <div className="ml-36  mt-7">
             <a
               href="tel:+593959463688"
               className="active:scale-95 hover:scale-105"
@@ -466,7 +466,7 @@ const Navbar = () => {
             </a>
             </div>
 
-            <div className="ml-30  mt-33 absolute">
+            <div className="ml-36  mt-33 absolute">
             <a
               href="tel:+593959463688"
               className="active:scale-95 hover:scale-105"
