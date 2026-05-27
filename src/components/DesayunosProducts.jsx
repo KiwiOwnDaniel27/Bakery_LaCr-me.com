@@ -99,17 +99,17 @@ const DesayunosProducts = () => {
                     <FaStar className="text-yellow-500 group-hover:text-white"/>
                   </div>
 
-                  <h1 className="text-white text-3 font-bold mt-6">{data.title}</h1>
+                  <h1 className="text-black dark:text-white text-3 font-bold mt-6">{data.title}</h1>
 
                   <p
-                   className="text-white group-hover:text-white duration-300 mt-3
+                   className="text-black dark:text-white group-hover:text-white duration-300 mt-3
                    text-sm line-clamp-2 hidden md:block">
                     {data.description}
                    </p>
 
-                   <h1 className="text-white sm:text-lg font-bold mt-3 md:mt-6">$ {data.price}</h1>
+                   <h1 className="text-black dark:text-white sm:text-lg font-bold mt-3 md:mt-6">$ {data.price}</h1>
 
-                   <button className="bg-amber-400 dark:text-white hover:scale-105 active:scale-95 duration-300 text-white
+                   <button className="bg-amber-800 dark:bg-amber-500 dark:text-white hover:scale-105 active:scale-95 duration-300 text-white
                       py-3 px-6 rounded-full mt-3 md:mt-6 group-hover:bg-white  group-hover:text-amber-400
                       active:bg-white active:text-amber-400 active:duration-300
                       ml-1 2xl:ml-10 xl:ml-10 lg:ml-15 md:ml-3 sm:ml-6
