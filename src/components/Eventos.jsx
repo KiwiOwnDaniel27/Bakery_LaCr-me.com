@@ -151,6 +151,18 @@ const Eventos = () => {
 
       </div>
 
+      <div className="flex justify-center bg-rose-200  dark:bg-gray-900 ">
+                  <button className="text-center mt-10 cursor-pointer bg-amber-400 dark:bg-amber-500  text-white py-3 px-9
+                  rounded-md xl:mb-6
+                  active:scale-95 hover:scale-105
+                active:bg-white active:text-amber-400 active:duration-300
+                  2xl:text-4xl"> 
+                      <a href="https://kiwiowndaniel27.github.io/Bakery_LaCr-me.com/#/tienda">
+                      Ver más
+                      </a>
+                  </button>
+        </div>
+
     </motion.div>
   )
 };
