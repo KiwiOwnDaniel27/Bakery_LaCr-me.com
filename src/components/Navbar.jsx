@@ -379,10 +379,10 @@ const Navbar = () => {
             </a>
 
 
-            <div className="-ml-40 absolute -mt-40 md:-ml-90">
+            <div className="-ml-40 absolute -mt-40 md:-ml-90 active:scale-95 hover:scale-105">
             <a
               href="#"
-              className="active:scale-95 hover:scale-105"
+              className=""
             >
               <img
                 src="./assets/pastelico.png"
@@ -397,10 +397,10 @@ const Navbar = () => {
             </div>
 
             {/* CATALOGO */}
-            <div className="ml-36  -mt-43 md:ml-0">
+            <div className="ml-36  -mt-43 md:ml-0 active:scale-95 hover:scale-105">
             <a
               href="#"
-              className="active:scale-95 hover:scale-105"
+              className=""
             >
               <img
                 src="./assets/galletaico.png"
@@ -415,10 +415,10 @@ const Navbar = () => {
             </div>
 
             {/* SOPORTE */}
-            <div className="-ml-40 absolute -mt-3 md:-mt-43 md:ml-90">
+            <div className="-ml-40 absolute -mt-3 md:-mt-43 md:ml-90 active:scale-95 hover:scale-105">
             <a
               href="#"
-              className="active:scale-95 hover:scale-105"
+              className=""
             >
               <img
                 src="./assets/desayunico.png"
@@ -432,10 +432,10 @@ const Navbar = () => {
             </a>
             </div>
 
-            <div className="ml-36  mt-7 md:-ml-90">
+            <div className="ml-36  mt-7 md:-ml-90 active:scale-95 hover:scale-105">
             <a
               href="#"
-              className="active:scale-95 hover:scale-105"
+              className=""
             >
               <img
                 src="./assets/detallico.png"
@@ -449,10 +449,10 @@ const Navbar = () => {
             </a>
             </div>
 
-            <div className="-ml-40 absolute mt-35 md:mt-0 md:ml-0">
+            <div className="-ml-40 absolute mt-35 md:mt-0 md:ml-0 active:scale-95 hover:scale-105">
             <a
               href="#"
-              className="active:scale-95 hover:scale-105"
+              className=""
             >
               <img
                 src="./assets/cumplico.png"
@@ -466,10 +466,10 @@ const Navbar = () => {
             </a>
             </div>
 
-            <div className="ml-36  mt-33 absolute md:mt-0 md:ml-90">
+            <div className="ml-36  mt-33 absolute md:mt-0 md:ml-90 active:scale-95 hover:scale-105">
             <a
               href="#"
-              className="active:scale-95 hover:scale-105"
+              className=""
             >
               <img
                 src="./assets/especilico.png"
