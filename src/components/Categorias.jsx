@@ -8,13 +8,13 @@ const Categorias = () => {
   return (
     <div className=" bg-rose-200  dark:bg-gray-900">
         <div className="text-center mx-w-[600] mx-auto py-9">
-            <p data-aos="fade-up" className="text-sm font-bold text-amber-400 dark:text-amber-500
+            <p data-aos="fade-up" className="text-sm font-bold text-amber-800 dark:text-white 
             2xl:text-7xl
             xl:text-sm
             lg:text-sm
             md:text-sm
             sm:text-3xl">Bienvenido a nuestro menú</p>
-            <h1 data-aos="fade-up" className="text-3xl font-bold
+            <h1 data-aos="fade-up" className="text-3xl font-bold text-black dark:text-white 
             2xl:text-4xl
             xl:text-3xl
             lg:text-3xl
@@ -45,7 +45,7 @@ const Categorias = () => {
                         active:duration-300" />
                         
                         <div className="mt-6 text-center text-2xl/tight font-bold mb-9">
-                            <h3 className="font-semibold
+                            <h3 className="font-semibold text-black dark:text-white
                             2xl:text-4xl">{data.title}</h3>
                         </div>
                         </a>

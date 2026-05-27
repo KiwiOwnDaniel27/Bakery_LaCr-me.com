@@ -45,13 +45,13 @@ const GalletasProducts = () => {
     <div className="bg-rose-200 dark:bg-gray-900">
         <div className="container">
             <div className="text-left">
-                <h1 className="text-3xl font-bold
+                <h1 className="text-3xl font-bold text-amber-800 dark:text-white
                 2xl:text-5xl
                 xl:text-4xl
                 lg:text-3xl
                 md:text-3xl
                 sm:text-3xl">Los mejores productos</h1>
-                <p className="text-xs text-gray-700
+                <p className="text-xs text-black dark:text-amber-500 
                 2xl:text-2xl
                 xl:text-2xl
                 lg:text-sm
