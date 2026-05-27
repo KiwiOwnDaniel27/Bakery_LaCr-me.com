@@ -110,7 +110,7 @@ const DesayunosProducts = () => {
                    <h1 className="text-black dark:text-white sm:text-lg font-bold mt-3 md:mt-6">$ {data.price}</h1>
 
                    <button className="bg-amber-800 dark:bg-amber-500 dark:text-white hover:scale-105 active:scale-95 duration-300 text-white
-                      py-3 px-6 rounded-full mt-3 md:mt-6 group-hover:bg-white  group-hover:text-amber-400
+                      py-3 px-6 rounded-full mt-3 md:mt-6 group-hover:bg-amber-500 dark:group-hover:bg-amber-800
                       active:bg-white active:text-amber-400 active:duration-300
                       ml-1 2xl:ml-10 xl:ml-10 lg:ml-15 md:ml-3 sm:ml-6
                       2xl:text-2xl 2xl:mb-6 text-sm 
