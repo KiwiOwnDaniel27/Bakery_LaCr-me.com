@@ -14,7 +14,7 @@ const Categorias = () => {
             lg:text-sm
             md:text-sm
             sm:text-3xl">Bienvenido a nuestro menú</p>
-            <h1 data-aos="fade-up" className="text-3xl font-bold text-black dark:text-white 
+            <h1 data-aos="fade-up" className="text-3xl font-bold text-black dark:text-amber-500
             2xl:text-4xl
             xl:text-3xl
             lg:text-3xl
