@@ -151,7 +151,7 @@ const Eventos = () => {
 
       </div>
 
-      <div className="flex justify-center bg-rose-200  dark:bg-gray-900 ">
+      <div className="flex justify-center bg-rose-200  dark:bg-gray-900 py-6 -mt-9 ">
                   <button className="text-center mt-10 cursor-pointer bg-amber-400 dark:bg-amber-500  text-white py-3 px-9
                   rounded-md xl:mb-6
                   active:scale-95 hover:scale-105

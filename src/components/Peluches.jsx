@@ -156,17 +156,17 @@ const Peluches = () => {
         </motion.div>
 
       </div>
-      <div className="flex justify-center bg-[url('/assets/fondo-bakery.png')] dark:bg-[url('/assets/fondo-bakery-osc.png')] ">
-                <button className="text-center mt-10 cursor-pointer bg-amber-400 dark:bg-amber-500  text-white py-3 px-9
-                rounded-md xl:mb-6
-                active:scale-95 hover:scale-105
-              active:bg-white active:text-amber-400 active:duration-300
-                2xl:text-4xl"> 
-                    <a href="https://kiwiowndaniel27.github.io/Bakery_LaCr-me.com/#/tienda">
-                    Ver más
-                    </a>
-                </button>
-      </div>
+        <div className="flex justify-center bg-[url('/assets/fondo-bakery.png')] dark:bg-[url('/assets/fondo-bakery-osc.png')] py-6 -mt-9">
+                  <button className="text-center mt-10 cursor-pointer bg-amber-400 dark:bg-amber-500  text-white py-3 px-9
+                  rounded-md xl:mb-6
+                  active:scale-95 hover:scale-105
+                active:bg-white active:text-amber-400 active:duration-300
+                  2xl:text-4xl"> 
+                      <a href="https://kiwiowndaniel27.github.io/Bakery_LaCr-me.com/#/tienda">
+                      Ver más
+                      </a>
+                  </button>
+        </div>
       
 
     </motion.div>

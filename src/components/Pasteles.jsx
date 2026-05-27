@@ -150,7 +150,7 @@ const Pasteles = () => {
         </motion.div>
 
       </div>
-      <div className="flex justify-center bg-[url('/assets/fondo-bakery.png')] dark:bg-[url('/assets/fondo-bakery-osc.png')] ">
+      <div className="flex py-6 -mt-9 justify-center bg-[url('/assets/fondo-bakery.png')] dark:bg-[url('/assets/fondo-bakery-osc.png')] ">
                   <button className="text-center mt-10 cursor-pointer bg-amber-400 dark:bg-amber-500  text-white py-3 px-9
                   rounded-md xl:mb-6
                   active:scale-95 hover:scale-105
