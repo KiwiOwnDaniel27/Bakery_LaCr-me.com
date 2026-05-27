@@ -130,7 +130,7 @@ const Navbar = () => {
             {/* DROPDOWN CARRITO */}
             {showCart && (
               <div
-                className="absolute right-0 md:-right-9 mt-3 w-80 
+                className="absolute right-0 md:-right-13 mt-3 w-80 
                 bg-white shadow-lg rounded-2xl z-50 
                 flex flex-col max-h-[70vh]"
               >
