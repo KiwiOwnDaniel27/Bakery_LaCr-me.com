@@ -88,14 +88,28 @@ const Hero = () => {
     
                                 <div className="order-1 sm:order-2">
                                     <div>
-                                        <img className=" w-60 h-auto sm:scale-105 -mt-70 ml-21 rounded-4xl
-                                        2xl:w-150 2xl:h-auto 2xl:-mt-30 2xl:ml-12
-                                        xl:w-120 xl:h-auto xl:-mt-20 xl:-ml-13
-                                        lg:w-100 lg:h-auto lg:-mt-25 lg:ml-0
-                                        md:w-80 md:h-auto md:-mt-20 md:ml-0
-                                        sm:w-65 sm:h-auto sm:mt-0 sm:ml-10" src={data.image} alt=""/>
+                                        <div className="dark:hidden">
+                                            <img className=" w-60 h-auto sm:scale-105 -mt-70 ml-21 rounded-4xl 
+                                            2xl:w-150 2xl:h-auto 2xl:-mt-30 2xl:ml-12
+                                            xl:w-120 xl:h-auto xl:-mt-20 xl:-ml-13
+                                            lg:w-100 lg:h-auto lg:-mt-25 lg:ml-0 
+                                            md:w-80 md:h-auto md:-mt-20 md:ml-0
+                                            sm:w-65 sm:h-auto sm:mt-0 sm:ml-10" src={data.image} alt=""/>
+                                        </div>
                                     </div>    
+                                    <div>
+                                        <div className="hidden dark:block">
+                                            <img className=" w-60 h-auto sm:scale-105 -mt-70 ml-21 rounded-4xl 
+                                            2xl:w-150 2xl:h-auto 2xl:-mt-30 2xl:ml-12
+                                            xl:w-120 xl:h-auto xl:-mt-20 xl:-ml-13
+                                            lg:w-100 lg:h-auto lg:-mt-25 lg:ml-0 
+                                            md:w-80 md:h-auto md:-mt-20 md:ml-0
+                                            sm:w-65 sm:h-auto sm:mt-0 sm:ml-10" src={data.img} alt=""/>
+                                        </div>
+                                    </div>    
+                                    
                                 </div>    
+                                
                         </div>
                     </div>
                     ))}
