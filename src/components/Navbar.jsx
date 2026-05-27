@@ -130,7 +130,7 @@ const Navbar = () => {
             {/* DROPDOWN CARRITO */}
             {showCart && (
               <div
-                className="absolute right-6 mt-3 w-80 
+                className="absolute right-3 md:right-0 mt-3 w-80 
                 bg-white shadow-lg rounded-2xl z-50 
                 flex flex-col max-h-[70vh]"
               >
@@ -153,7 +153,7 @@ const Navbar = () => {
                         <img
                           src={data.image}
                           alt=""
-                          className="w-23 h-30 object-cover"
+                          className="w-23 h-auto object-cover ml-4"
                         />
 
                         <div className="flex flex-col flex-1 ml-3">
