@@ -195,7 +195,7 @@ export const ProductsData1 = [
         image: "./assets/topproduct1.png",
         title: "Camisa Blue Paris-Milan",
         description: "Negro y Azul",
-        link: "/camisa-1",
+        link: null,
         price: 48.00
     },
     {
@@ -203,7 +203,7 @@ export const ProductsData1 = [
         image: "./assets/topproduct1.png",
         title: "Camisa Yellow Shield",
         description: "Negro y Amarillo",
-        link: "/camisa-2",
+        link: null,
         price: 45.00
     },
     {
@@ -211,7 +211,7 @@ export const ProductsData1 = [
         image: "./assets/topproduct1.png",
         title: "Camisa Green Style",
         description: "Negro y Verde",
-        link: "/camisa-3",
+        link: null,
         price: 45.00
     },
     {
@@ -220,7 +220,7 @@ export const ProductsData1 = [
         img: "./assets/soldOut.webp",
         title: "Camisa Red Crown",
         description: "Negro y Rojo",
-        link: "/camisa-4",
+        link: null,
         price: 45.00
     },
     {
@@ -228,7 +228,7 @@ export const ProductsData1 = [
         image: "./assets/topproduct1.png",
         title: "Camisa Pocket",
         description: "Negro y Café",
-        link: "/camisa-5",
+        link: null,
         price: 45.00
     },
     {
@@ -236,7 +236,7 @@ export const ProductsData1 = [
         image: "./assets/topproduct1.png",
         title: "Camisa Blue Line",
         description: "Blanco y azul",
-        link: "/camisa-6",
+        link: null,
         price: 45.00
     },
     {
@@ -244,7 +244,7 @@ export const ProductsData1 = [
         image: "./assets/topproduct1.png",
         title: "Camisa White Black",
         description: "Blanco y negro",
-        link: "/camisa-7",
+        link: null,
         price: 48.00
     },
     {
@@ -252,7 +252,7 @@ export const ProductsData1 = [
         image: "./assets/topproduct1.png",
         title: "Camisa Green Rouse",
         description: "Blanco y Verde",
-        link: "/camisa-8",
+        link: null,
         price: 39.99
     },
     {
@@ -260,7 +260,7 @@ export const ProductsData1 = [
         image: "./assets/topproduct1.png",
         title: "Saco Tejido Rose",
         description: "Azul y café",
-        link: "/tejido-1",
+        link: null,
         price: 60.00
     },
     
@@ -272,7 +272,7 @@ export const ProductsData2 = [
         image: "./assets/detalle1.png",
         title: "Camisa Blue Paris-Milan",
         description: "Negro y Azul",
-        link: "/camisa-1",
+        link: null,
         price: 48.00
     },
     {
@@ -280,7 +280,7 @@ export const ProductsData2 = [
         image: "./assets/detalle1.png",
         title: "Camisa Yellow Shield",
         description: "Negro y Amarillo",
-        link: "/camisa-2",
+        link: null,
         price: 45.00
     },
     {
@@ -288,7 +288,7 @@ export const ProductsData2 = [
         image: "./assets/detalle1.png",
         title: "Camisa Green Style",
         description: "Negro y Verde",
-        link: "/camisa-3",
+        link: null,
         price: 45.00
     },
     {
@@ -297,7 +297,7 @@ export const ProductsData2 = [
         img: "./assets/soldOut.webp",
         title: "Camisa Red Crown",
         description: "Negro y Rojo",
-        link: "/camisa-4",
+        link: null,
         price: 45.00
     },
     {
@@ -305,7 +305,7 @@ export const ProductsData2 = [
         image: "./assets/detalle1.png",
         title: "Camisa Pocket",
         description: "Negro y Café",
-        link: "/camisa-5",
+        link: null,
         price: 45.00
     },
     {
@@ -313,7 +313,7 @@ export const ProductsData2 = [
         image: "./assets/detalle1.png",
         title: "Camisa Blue Line",
         description: "Blanco y azul",
-        link: "/camisa-6",
+        link: null,
         price: 45.00
     },
 ]
@@ -324,7 +324,7 @@ export const ProductsData3 = [
         image: "./assets/detalle2.png",
         title: "Camisa Blue Paris-Milan",
         description: "Negro y Azul",
-        link: "/camisa-1",
+        link: null,
         price: 48.00
     },
     {
@@ -332,7 +332,7 @@ export const ProductsData3 = [
         image: "./assets/detalle2.png",
         title: "Camisa Yellow Shield",
         description: "Negro y Amarillo",
-        link: "/camisa-2",
+        link: null,
         price: 45.00
     },
     {
@@ -340,7 +340,7 @@ export const ProductsData3 = [
         image: "./assets/detalle2.png",
         title: "Camisa Green Style",
         description: "Negro y Verde",
-        link: "/camisa-3",
+        link: null,
         price: 45.00
     },
     {
@@ -349,7 +349,7 @@ export const ProductsData3 = [
         img: "./assets/soldOut.webp",
         title: "Camisa Red Crown",
         description: "Negro y Rojo",
-        link: "/camisa-4",
+        link: null,
         price: 45.00
     },
     {
@@ -357,7 +357,7 @@ export const ProductsData3 = [
         image: "./assets/detalle2.png",
         title: "Camisa Pocket",
         description: "Negro y Café",
-        link: "/camisa-5",
+        link: null,
         price: 45.00
     },
     {
@@ -365,7 +365,7 @@ export const ProductsData3 = [
         image: "./assets/detalle2.png",
         title: "Camisa Blue Line",
         description: "Blanco y azul",
-        link: "/camisa-6",
+        link: null,
         price: 45.00
     },
 ]
@@ -376,7 +376,7 @@ export const ProductsData4 = [
         image: "./assets/pasteles.png",
         title: "Camisa Blue Paris-Milan",
         description: "Negro y Azul",
-        link: "/camisa-1",
+        link: null,
         price: 48.00
     },
     {
@@ -384,7 +384,7 @@ export const ProductsData4 = [
         image: "./assets/pasteles.png",
         title: "Camisa Yellow Shield",
         description: "Negro y Amarillo",
-        link: "/camisa-2",
+        link: null,
         price: 45.00
     },
     {
@@ -392,7 +392,7 @@ export const ProductsData4 = [
         image: "./assets/pasteles.png",
         title: "Camisa Green Style",
         description: "Negro y Verde",
-        link: "/camisa-3",
+        link: null,
         price: 45.00
     },
     {
@@ -401,7 +401,7 @@ export const ProductsData4 = [
         img: "./assets/soldOut.webp",
         title: "Camisa Red Crown",
         description: "Negro y Rojo",
-        link: "/camisa-4",
+        link: null,
         price: 45.00
     },
     {
@@ -409,7 +409,7 @@ export const ProductsData4 = [
         image: "./assets/pasteles.png",
         title: "Camisa Pocket",
         description: "Negro y Café",
-        link: "/camisa-5",
+        link: null,
         price: 45.00
     },
     {
@@ -417,7 +417,7 @@ export const ProductsData4 = [
         image: "./assets/pasteles.png",
         title: "Camisa Blue Line",
         description: "Blanco y azul",
-        link: "/camisa-6",
+        link: null,
         price: 45.00
     },
 ]
@@ -428,7 +428,7 @@ export const ProductsData5 = [
         image: "./assets/cumplea.png",
         title: "Camisa Blue Paris-Milan",
         description: "Negro y Azul",
-        link: "/camisa-1",
+        link: null,
         price: 48.00
     },
     {
@@ -436,7 +436,7 @@ export const ProductsData5 = [
         image: "./assets/cumplea.png",
         title: "Camisa Yellow Shield",
         description: "Negro y Amarillo",
-        link: "/camisa-2",
+        link: null,
         price: 45.00
     },
     {
@@ -444,7 +444,7 @@ export const ProductsData5 = [
         image: "./assets/cumplea.png",
         title: "Camisa Green Style",
         description: "Negro y Verde",
-        link: "/camisa-3",
+        link: null,
         price: 45.00
     },
     {
@@ -453,7 +453,7 @@ export const ProductsData5 = [
         img: "./assets/soldOut.webp",
         title: "Camisa Red Crown",
         description: "Negro y Rojo",
-        link: "/camisa-4",
+        link: null,
         price: 45.00
     },
     {
@@ -461,7 +461,7 @@ export const ProductsData5 = [
         image: "./assets/cumplea.png",
         title: "Camisa Pocket",
         description: "Negro y Café",
-        link: "/camisa-5",
+        link: null,
         price: 45.00
     },
     {
@@ -469,7 +469,7 @@ export const ProductsData5 = [
         image: "./assets/cumplea.png",
         title: "Camisa Blue Line",
         description: "Blanco y azul",
-        link: "/camisa-6",
+        link: null,
         price: 45.00
     },
 ]
@@ -480,7 +480,7 @@ export const ProductsData6 = [
         image: "./assets/especiales1.png",
         title: "Camisa Blue Paris-Milan",
         description: "Negro y Azul",
-        link: "/camisa-1",
+        link: null,
         price: 48.00
     },
     {
@@ -488,7 +488,7 @@ export const ProductsData6 = [
         image: "./assets/especiales1.png",
         title: "Camisa Yellow Shield",
         description: "Negro y Amarillo",
-        link: "/camisa-2",
+        link: null,
         price: 45.00
     },
     {
@@ -496,7 +496,7 @@ export const ProductsData6 = [
         image: "./assets/especiales1.png",
         title: "Camisa Green Style",
         description: "Negro y Verde",
-        link: "/camisa-3",
+        link: null,
         price: 45.00
     },
     {
@@ -505,7 +505,7 @@ export const ProductsData6 = [
         img: "./assets/soldOut.webp",
         title: "Camisa Red Crown",
         description: "Negro y Rojo",
-        link: "/camisa-4",
+        link: null,
         price: 45.00
     },
     {
@@ -513,7 +513,7 @@ export const ProductsData6 = [
         image: "./assets/especiales1.png",
         title: "Camisa Pocket",
         description: "Negro y Café",
-        link: "/camisa-5",
+        link: null,
         price: 45.00
     },
     {
@@ -521,7 +521,7 @@ export const ProductsData6 = [
         image: "./assets/especiales1.png",
         title: "Camisa Blue Line",
         description: "Blanco y azul",
-        link: "/camisa-6",
+        link: null,
         price: 45.00
     },
 ]
@@ -532,7 +532,7 @@ export const ProductsData7 = [
         image: "./assets/especiales2.png",
         title: "Camisa Blue Paris-Milan",
         description: "Negro y Azul",
-        link: "/camisa-1",
+        link: null,
         price: 48.00
     },
     {
@@ -540,7 +540,7 @@ export const ProductsData7 = [
         image: "./assets/especiales2.png",
         title: "Camisa Yellow Shield",
         description: "Negro y Amarillo",
-        link: "/camisa-2",
+        link: null,
         price: 45.00
     },
     {
@@ -548,7 +548,7 @@ export const ProductsData7 = [
         image: "./assets/especiales2.png",
         title: "Camisa Green Style",
         description: "Negro y Verde",
-        link: "/camisa-3",
+        link: null,
         price: 45.00
     },
     {
@@ -557,7 +557,7 @@ export const ProductsData7 = [
         img: "./assets/soldOut.webp",
         title: "Camisa Red Crown",
         description: "Negro y Rojo",
-        link: "/camisa-4",
+        link: null,
         price: 45.00
     },
     {
@@ -565,7 +565,7 @@ export const ProductsData7 = [
         image: "./assets/especiales2.png",
         title: "Camisa Pocket",
         description: "Negro y Café",
-        link: "/camisa-5",
+        link: null,
         price: 45.00
     },
     {
@@ -573,7 +573,7 @@ export const ProductsData7 = [
         image: "./assets/especiales2.png",
         title: "Camisa Blue Line",
         description: "Blanco y azul",
-        link: "/camisa-6",
+        link: null,
         price: 45.00
     },
 ]
