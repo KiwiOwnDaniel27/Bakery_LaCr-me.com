@@ -106,9 +106,9 @@ const Navbar = () => {
               group-hover:bg-white group-hover:text-amber-400
               active:scale-95 hover:scale-105
               active:bg-white active:text-amber-400 active:duration-300
-              py-3 px-2 2xl:px-5 xl:px-0 lg:px-3 rounded-full flex items-center h-7 gap-3 group ml-63 -mt-19 border border-black
+              py-3 px-2 2xl:px-5 xl:px-0 lg:px-3 rounded-full flex items-center h-7 gap-3 group ml-58 -mt-19 border border-black
               2xl:w-35 2xl:h-16 2xl:ml-365 lg:ml-225 md:ml-172 sm:ml-140 2xl:-mt-60 lg:-mt-23
-              md:-mt-16 sm:-mt-36 md:w-14 md:h-7 lg:w-18 lg:h-8 w-18 xl:w-23 xl:h-10
+              md:-mt-16 sm:-mt-36 md:w-14 md:h-7 lg:w-18 lg:h-8 w-16 xl:w-23 xl:h-10
               xl:ml-263 xl:-mt-35"
             >
               <span className="group-hover:block transition-all duration-200 ml-1 md:ml-0 lg:ml-1 xl:ml-6 2xl:ml-3 2xl:text-3xl">

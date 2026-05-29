@@ -22,9 +22,9 @@ const DarkMode = () => {
 
 
   return (
-    <div className="2xl:ml-365 ml-62 xl:ml-261 lg:ml-223 md:ml-171 sm:ml-139 -mt-19">
+    <div className="2xl:ml-365 ml-56 xl:ml-261 lg:ml-223 md:ml-171 sm:ml-139 -mt-19">
         <img src="./assets/moodluz.webp"  alt="" 
-        className={`w-20 md:w-16 lg:w-21 xl:w-26 2xl:w-35  cursor-pointer drop-shadow-[3px_3px_3px_black] transition-all
+        className={`w-18 md:w-16 lg:w-21 xl:w-26 2xl:w-35  cursor-pointer drop-shadow-[3px_3px_3px_black] transition-all
         duration-300 absolute z-10 ${theme == "dark" ? "opacity-0" : "opacity-100"
 
         }`}
